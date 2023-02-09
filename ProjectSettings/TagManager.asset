@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hideable
+  - Vampire
+  - Garlic
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Hideable
+  - Water
+  - UI
+  - Hide
+  - Ground
+  - Player
+  - Player Projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1007434641
+    locked: 0
+  - name: Over background
+    uniqueID: 756361273
+    locked: 0
+  - name: Hide
+    uniqueID: 1876468075
+    locked: 0
+  - name: Hideable
+    uniqueID: 2416659925
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Top
+    uniqueID: 3193303633
+    locked: 0
